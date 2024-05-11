@@ -4,7 +4,5 @@ title: 鸿雁长飞光不度，鱼龙潜跃水成文
 description: This is my blog
 # 主题风格
 theme: jekyll-theme-Leap day
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 # markdown增强功能
 markdown: kramdown
